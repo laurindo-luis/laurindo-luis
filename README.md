@@ -2,6 +2,8 @@
 
 - :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
 
+<img align="right" alt="GIF" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/gifs/Developer.gif" />
+
 <div>
   <a href="https://github.com/laurindo-luis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laurindo-luis&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
