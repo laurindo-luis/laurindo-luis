@@ -1,6 +1,6 @@
 # Hi, I'm Luís Eduardo Laurindo 👋
 
-# About me
+## About me
 
 - :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
 
@@ -16,7 +16,7 @@
   
   
   
-# Social Networks  
+## Social Networks  
   
 <div> 
   <a href="https://www.youtube.com/channel/UCF46nrEO_33ka20psM7R58g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -28,7 +28,7 @@
 </a>
 </div>  
   
-# Languages and Tools  
+## Languages and Tools  
 
 <!--
 **laurindo-luis/laurindo-luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
