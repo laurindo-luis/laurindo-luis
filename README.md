@@ -3,6 +3,13 @@
 ## About me
 
 - :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
 
 <img align="right" alt="GIF" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/gifs/Developer.gif" />
 
