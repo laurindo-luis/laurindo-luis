@@ -1,10 +1,12 @@
 # Hi, I'm Luís Eduardo Laurindo 👋
 
-- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
-
 # About me
 
-<img height="100em" align="right" alt="GIF" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/gifs/Developer.gif" />
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+
+<img align="right" alt="GIF" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/gifs/Developer.gif" />
+
+
 
 <div>
   <a href="https://github.com/laurindo-luis">
@@ -12,7 +14,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurindo-luis&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-##
+  
+  
+# Social Networks  
   
 <div> 
   <a href="https://www.youtube.com/channel/UCF46nrEO_33ka20psM7R58g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
