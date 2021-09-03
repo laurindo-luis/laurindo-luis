@@ -32,7 +32,10 @@
 </div>  
   
 ## Languages and Tools  
-
+<div>
+  <img src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/java.png" />
+  <img src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/spring-java.png" />
+</div>
 <!--
 **laurindo-luis/laurindo-luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
