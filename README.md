@@ -6,6 +6,11 @@
 ## About me
 
 - :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
 
 
 
