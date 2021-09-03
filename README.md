@@ -4,7 +4,7 @@
 
 # About me
 
-<img height="300em" align="right" alt="GIF" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/gifs/Developer.gif" />
+<img height="100em" align="right" alt="GIF" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/gifs/Developer.gif" />
 
 <div>
   <a href="https://github.com/laurindo-luis">
