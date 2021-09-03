@@ -1,6 +1,7 @@
+<img height="150em" align="right" alt="GIF" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/gifs/Developer.gif" />
+
 # Hi, I'm Luís Eduardo Laurindo 👋
 
-<img height="150em" align="right" alt="GIF" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/gifs/Developer.gif" />
 
 ## About me
 
