@@ -1,6 +1,8 @@
-### Hi, I'm Luís Eduardo Laurindo 👋
+# Hi, I'm Luís Eduardo Laurindo 👋
 
 - :books: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+
+# About me
 
 <img align="right" alt="GIF" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/gifs/Developer.gif" />
 
