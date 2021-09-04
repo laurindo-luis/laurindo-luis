@@ -31,8 +31,10 @@
   
 ## Languages and Tools  
 <div>
-  <img height="70em" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/java.png" />
-  <img height="70em" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/spring-java.png" />
+  <img height="60em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/java.png" />
+  <img height="60em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/spring-java.png" />
+  <img height="30em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/mqtt.png" />
+  <img height="30em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/mosquitto.png" />
 </div>
 <!--
 **laurindo-luis/laurindo-luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
