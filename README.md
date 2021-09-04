@@ -1,6 +1,6 @@
 <img height="150em" align="right" alt="GIF" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/gifs/Developer.gif" />
 
-# Hi, I'm Luís Eduardo Laurindo 👋 
+# Hi, I'm Luís Eduardo 👋 
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=laurindo-luis.visitor-badge)](https://github.com/laurindo-luis)
 
 
