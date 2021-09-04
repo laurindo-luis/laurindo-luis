@@ -32,8 +32,10 @@
   
 ## Languages and Tools  
 <div>
-  <img height="60em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/java.png" />
+  <img height="60em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/java.png" /> 
   <img height="60em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/spring-java.png" />
+  <img height="50em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/sql.png" />
+  <img height="50em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/mysql.png" />
   <img height="30em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/junit5.png" />
   <img height="30em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/mqtt.png" />
   <img height="30em" align="center" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/mosquitto.png" />
