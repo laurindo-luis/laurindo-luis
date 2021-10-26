@@ -7,6 +7,7 @@
 ## About me
 
 - :computer: I'm currently learning Backend with Spring Java, TDD, Clean Code end Designer Pattern
+- :computer: I'm currently learning Machine Learning with Python
 - :man_teacher: My academic life is here! :point_right: http://lattes.cnpq.br/5484874116191258
 
 
