@@ -34,12 +34,12 @@
   
 ## Languages and Tools  
 <div>
-  <code><img height="50" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/java.png" /></code> 
-  <code><img height="60"  src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/spring-java.png" /></code> 
-  <code><img height="50" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/sql.png" /></code> 
-  <code><img height="50" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/mysql.png" /></code> 
-  <code><img height="30" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/junit5.png" /></code> 
-  <code><img height="30" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/mqtt.png" /></code>   
+  <code><img height="40" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/java.png" /></code> 
+  <code><img height="40"  src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/spring-java.png" /></code> 
+  <code><img height="40" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/sql.png" /></code> 
+  <code><img height="40" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/mysql.png" /></code> 
+  <code><img height="20" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/junit5.png" /></code> 
+  <code><img height="20" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/mqtt.png" /></code>   
 </div>
 <!--
 **laurindo-luis/laurindo-luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
