@@ -6,7 +6,7 @@
 
 ## About me
 
-- 📱: Mobile Developer
+- Mobile Developer and Back-end Developer
 - :computer: I'm currently learning TDD, Clean Code end Designer Pattern
 - :man_teacher: My academic life is here! :point_right: http://lattes.cnpq.br/5484874116191258
 
