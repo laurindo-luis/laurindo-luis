@@ -31,7 +31,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>  
-  
+
+
+<!--
 ## Languages and Tools  
 <div>
   <code><img height="40" src="https://github.com/laurindo-luis/laurindo-luis/blob/main/icons/java.png" /></code> 
